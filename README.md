@@ -1,7 +1,7 @@
 ## Hola, soy Daniel. 👋
 
 # 💫 Sobre mí:
-👩🏻‍💻 Desarrollador web y de software, apasionado por crear soluciones digitales elegantes, funcionales y sostenibles.<br>👩🏻‍🎓 Estudiante actual en Tecnico en Desarrallo de Software en El Instituto Tecnológico Centroamericano (ITCA‑FEPADE), Sta. Tecla.<br>🎨 Exploro cómo la inteligencia artificial y el código pueden revivir recuerdos.<br>Desde restauración de fotos antiguas hasta proyectos con Python para mejorar imágenes, acá se mezcla arte, tecnología e historia digital.<br>💭 ¡Actualmente aprendiendo sobre análisis de datos y dataviz!
+👩🏻‍💻 Desarrollador web full stack y de software, apasionado por crear soluciones digitales elegantes, funcionales y sostenibles.<br>👩🏻‍🎓 Estudiante actual en Tecnico en Ingeniería en Desarrallo de Software en El Instituto Tecnológico Centroamericano (ITCA‑FEPADE), Sta. Tecla, El Salvador.<br>🎨 Exploro cómo la inteligencia artificial y el código pueden revivir recuerdos.<br>Desde restauración de fotos antiguas hasta proyectos con Python para mejorar imágenes, acá se mezcla arte, tecnología e historia digital.<br>💭 ¡Actualmente aprendiendo sobre análisis de datos y dataviz!
 
 ![](https://github-readme-stats.vercel.app/api?username=Danielxhm&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true)<br/>
 
