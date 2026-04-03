@@ -14,4 +14,8 @@
 &nbsp;&nbsp;&nbsp;
 [![Credly Badge](https://images.credly.com/size/100x100/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png)](https://www.credly.com/badges/baf30e1e-3324-40a2-adea-ef8db0ea658b/public_url)
 
+&nbsp;&nbsp;&nbsp;
+[![Credly Badge](https://images.credly.com/size/100x100/images/e658e8fb-fba0-4a12-9dd6-61369b63a6ab/image.png)](https://www.credly.com/badges/e94c6c3f-1da1-4aa5-a617-c193a4ba7aff/public_url)
+
+
 <!-- profile  -->
