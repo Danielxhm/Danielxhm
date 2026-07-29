@@ -33,7 +33,7 @@ Estoy disponible para colaborar en proyectos freelance y de consultoría técnic
 - Integración de pipelines de Inteligencia Artificial y Visión por Computadora.
 - Soluciones full-stack end-to-end.
 
-📫 **Contacto:** [Inserta tu enlace de LinkedIn, email o portafolio aquí]
+📫 **Contacto:** linkedin.com/in/daniel-cartagena-b2sd
 
 ---
 
