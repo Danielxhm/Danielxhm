@@ -1,13 +1,15 @@
 <div align="center">
 
-  <!-- Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24&height=210&section=header&text=Daniel%20Santamar%C3%ADa&fontSize=50&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20AI%20Integrator%20%7C%20Junior%20Data%20Analyst&descFontSize=18&descAlignY=62&fontColor=ffffff" width="100%" alt="Header Banner"/>
+<!-- Header Banner -->
+<div align="center">
+  <img src="./assets/header.svg" alt="Daniel Cartagena" width="100%" style="max-width: 680px;" />
+</div>
 
   <br><br>
 
   <!-- Profile Image -->
   <a href="https://linkedin.com/in/daniel-cartagena-b2sd">
-    <img src="./assets/profile.webp" alt="Contact" width="160" height="160" style="border-radius: 50%; object-fit: cover; border: 3px solid #2ea44f;" />
+    <img src="./assets/profile.webp" alt="Contact"   style="border-radius: 50%; object-fit: cover; border: 3px solid #2ea44f;" />
   </a>
 
   <br><br>
