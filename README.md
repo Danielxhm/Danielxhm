@@ -1,87 +1,150 @@
 <div align="center">
 
-# Daniel | Full-Stack Developer & AI Integrator 👋
+  <!-- Header Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24&height=210&section=header&text=Daniel%20Santamar%C3%ADa&fontSize=50&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20AI%20Integrator%20%7C%20Junior%20Data%20Analyst&descFontSize=18&descAlignY=62&fontColor=ffffff" width="100%" alt="Header Banner"/>
 
-**Full-Stack Web Development | Computer Vision | IoT Systems | Data Analytics**
+  <br><br>
 
-[![GitHub Stats](https://githubreadmestatsfast.vercel.app/api?username=Danielxhm&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true)](https://github.com/Danielxhm)
+  <!-- Profile Image -->
+  <a href="https://linkedin.com/in/daniel-cartagena-b2sd">
+    <img src="./assets/profile.webp" alt="Contact" width="160" height="160" style="border-radius: 50%; object-fit: cover; border: 3px solid #2ea44f;" />
+  </a>
 
-*Ingeniería de software orientada a resultados: construyendo aplicaciones web, pipelines de inteligencia artificial y herramientas que resuelven problemas reales.*
+  <br><br>
+
+  <p align="center">
+    <a href="https://linkedin.com/in/daniel-cartagena-b2sd">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <img src="https://img.shields.io/badge/Ubicación-El%20Salvador-0047AB?style=for-the-badge&logo=googlemaps&logoColor=white" alt="El Salvador" />
+    <img src="https://img.shields.io/badge/Estado-Disponible%20para%20Proyectos-2ea44f?style=for-the-badge" alt="Status" />
+  </p>
+
+  <p align="center">
+    <strong>Ingeniería de software y analítica aplicada:</strong> diseño arquitecturas full-stack escalables, pipelines de visión artificial, modelado de almacenes de datos y sistemas IoT orientados a resultados medibles.
+  </p>
 
 </div>
 
 ---
 
-## 🚀 Sobre mí
+### 🚀 Sobre mí
 
-Soy un desarrollador radicado en El Salvador con experiencia integral en todo el stack tecnológico, desde la arquitectura de bases de datos y backends (Python, PHP) hasta interfaces frontend (JS). Mi enfoque principal es crear código limpio, escalable y automatizaciones eficientes.
+Soy desarrollador y analista de datos junior radicado en El Salvador. Trabajo combinando la ingeniería de software con analítica relacional avanzada, automatización y modelos de visión computacional.
 
-Actualmente, mi trabajo técnico se centra en:
-* 🧠 **Computer Vision & AI:** Desarrollo de pipelines de video con inteligencia artificial, integración de modelos de detección de objetos (YOLO) y procesamiento con PyTorch y OpenCV.
-* 🔌 **Sistemas IoT:** Integración de hardware y software para la recolección y análisis de datos físicos.
-* ⚙️ **Automatización & Procesamiento de Imágenes:** Implementación de scripts en Python y modelos de IA para la restauración y mejora automatizada de imágenes digitales.
-* 📊 **Data Analytics & Data Warehousing:** Me desempeño como **Data Analyst Jr.**, trabajando con **Oracle SQL** y arquitecturas de **Data Warehouse** para el modelado, extracción y análisis de datos que apoyan la toma de decisiones.
-
----
-
-## 💼 Consultoría y Desarrollo Freelance
-
-Estoy disponible para colaborar en proyectos freelance y de consultoría técnica. Me especializo en tomar requerimientos complejos y llevarlos desde la fase de arquitectura hasta su despliegue en producción.
-
-**Áreas de especialidad:**
-- Desarrollo de aplicaciones web y APIs escalables.
-- Integración de pipelines de Inteligencia Artificial y Visión por Computadora.
-- Análisis y modelado de datos con Oracle SQL y entornos de Data Warehouse.
-- Soluciones full-stack end-to-end.
-
-📫 **Contacto:** [linkedin.com/in/daniel-cartagena-b2sd](https://linkedin.com/in/daniel-cartagena-b2sd)
+- 📊 **Data Analytics & Data Warehousing:** Diseño y consulta de modelos multidimensionales con **Oracle SQL**, esquemas estrella/copo de nieve para **Data Warehouse**, optimización de consultas complejas y análisis enfocado en métricas clave de negocio.
+- 🧠 **Computer Vision & AI:** Construcción de pipelines de video e inferencia en tiempo real, integración de modelos **YOLO**, y procesamiento de medios digitales con **PyTorch** y **OpenCV**.
+- 💻 **Desarrollo Full-Stack:** Creación de APIs REST y arquitecturas modulares usando **Python (FastAPI)**, **PHP (Laravel)**, complementadas con frontends reactivos en **React**, **TypeScript** y **Tailwind CSS**.
+- 🔌 **IoT & Automatización:** Conexión de hardware embebido (ESP32/ESP8266) hacia bases de datos e interfaces web, automatizando flujos de trabajo e integración de eventos con **n8n**.
 
 ---
 
-## 🛠️ Stack Tecnológico
-
-### Lenguajes
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Bash](https://img.shields.io/badge/bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-
-### Inteligencia Artificial & ML
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white) ![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=YOLO&logoColor=black) ![TensorRT](https://img.shields.io/badge/TensorRT-76B900?style=for-the-badge&logo=NVIDIA&logoColor=white)
-
-### Backend, Frontend & Frameworks
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Jinja](https://img.shields.io/badge/jinja-B41717.svg?style=for-the-badge&logo=jinja&logoColor=white) <br>
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
-
-### Bases de Datos, Data Warehousing & Análisis de Datos
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![PL/SQL](https://img.shields.io/badge/PL%2FSQL-F80000?style=for-the-badge) ![Data Warehouse](https://img.shields.io/badge/Data%20Warehouse-4B8BBE?style=for-the-badge) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![ApacheCassandra](https://img.shields.io/badge/cassandra-%231287B1.svg?style=for-the-badge&logo=apache-cassandra&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
-
-### Infraestructura
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-
-### Diseño & Herramientas Complementarias
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/Photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/Illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Premiere-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-
----
-
-## 🏆 Certificaciones
+### 🛠️ Stack Tecnológico
 
 <div align="center">
-  <a href="https://www.credly.com/badges/fa0bfa82-4318-4dea-9e4a-caecbd686a8f/public_url">
-    <img src="https://images.credly.com/size/100x100/images/e2d12302-10f9-40d4-8ff1-066a7008b61d/blob" alt="Credly Badge" width="100"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.credly.com/badges/95064c50-7dcf-44e1-949d-f8ff2d39c181/public_url">
-    <img src="https://images.credly.com/size/100x100/images/fce226c2-0f13-4e17-b60c-24fa6ffd88cb/Intro2IoT.png" alt="IoT Badge" width="100"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.credly.com/badges/baf30e1e-3324-40a2-adea-ef8db0ea658b/public_url">
-    <img src="https://images.credly.com/size/100x100/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" alt="Credly Badge" width="100"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.credly.com/badges/e94c6c3f-1da1-4aa5-a617-c193a4ba7aff/public_url">
-    <img src="https://images.credly.com/size/100x100/images/e658e8fb-fba0-4a12-9dd6-61369b63a6ab/image.png" alt="Credly Badge" width="100"/>
+
+#### Lenguajes de Programación
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/SQL-CC292B?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="SQL" />
+</p>
+
+#### Datos, Analytics & Data Warehouse
+<p>
+  <img src="https://img.shields.io/badge/Oracle_SQL-F80000?style=flat-square&logo=oracle&logoColor=white" alt="Oracle SQL" />
+  <img src="https://img.shields.io/badge/Data_Warehouse-00599C?style=flat-square&logo=database&logoColor=white" alt="Data Warehouse" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/SQL_Server-CC292B?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
+</p>
+
+#### Inteligencia Artificial, Visión & IoT
+<p>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV" />
+  <img src="https://img.shields.io/badge/YOLO-00FFFF?style=flat-square&logo=yolo&logoColor=black" alt="YOLO" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/ESP32%20%2F%20ESP8266-E7352C?style=flat-square&logo=espressif&logoColor=white" alt="Espressif" />
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white" alt="Arduino" />
+</p>
+
+#### Frameworks & Desarrollo Web
+<p>
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET" />
+</p>
+
+#### Infraestructura, Automatización & Herramientas
+<p>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" alt="n8n" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+</p>
+
+</div>
+
+---
+
+### 📊 Actividad en GitHub
+
+<div align="center">
+  <a href="https://github.com/TU_USUARIO_GITHUB">
+    <img src="https://streak-stats.demolab.com?user=Danielxhm&theme=tokyonight&hide_border=true&border_radius=8" alt="GitHub Streak Stats" />
   </a>
 </div>
 
+---
+
+### 🏆 Certificaciones & Credenciales
+
 <div align="center">
-  <br/>
-  <img src="./assets/profile.webp" alt="Daniel Cartagena" width="150"/>
+  <table>
+    <tr>
+      <td align="center" width="25%">
+        <a href="https://www.credly.com/badges/fa0bfa82-4318-4dea-9e4a-caecbd686a8f/public_url" target="_blank">
+          <img src="https://images.credly.com/size/110x110/images/e2d12302-10f9-40d4-8ff1-066a7008b61d/blob" width="95" alt="Credencial"/>
+        </a>
+      </td>
+      <td align="center" width="25%">
+        <a href="https://www.credly.com/badges/95064c50-7dcf-44e1-949d-f8ff2d39c181/public_url" target="_blank">
+          <img src="https://images.credly.com/size/110x110/images/fce226c2-0f13-4e17-b60c-24fa6ffd88cb/Intro2IoT.png" width="95" alt="IoT Badge"/>
+        </a>
+      </td>
+      <td align="center" width="25%">
+        <a href="https://www.credly.com/badges/baf30e1e-3324-40a2-adea-ef8db0ea658b/public_url" target="_blank">
+          <img src="https://images.credly.com/size/110x110/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" width="95" alt="Cybersecurity Badge"/>
+        </a>
+      </td>
+      <td align="center" width="25%">
+        <a href="https://www.credly.com/badges/e94c6c3f-1da1-4aa5-a617-c193a4ba7aff/public_url" target="_blank">
+          <img src="https://images.credly.com/size/110x110/images/e658e8fb-fba0-4a12-9dd6-61369b63a6ab/image.png" width="95" alt="Credencial"/>
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+### 📫 Conectemos
+
+<div align="center">
+
+¿Tienes en mente un proyecto freelance, una consultoría o una oportunidad en análisis de datos e ingeniería de software?
+
+<br>
+
+<a href="https://linkedin.com/in/daniel-cartagena-b2sd">
+  <img src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn Contact" />
+</a>
+
 </div>
