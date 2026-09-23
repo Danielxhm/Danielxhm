@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 130" width="100%" height="130" fill="none">
+  <style>
+    .name {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Inter, Helvetica, Arial, sans-serif;
+      font-size: 50px;
+      font-weight: 800;
+      letter-spacing: -0.03em;
+      fill: #FFFFFF;
+    }
+    .role {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Inter, Helvetica, Arial, sans-serif;
+      font-size: 14px;
+      font-weight: 600;
+      letter-spacing: 0.14em;
+      fill: #94A3B8;
+    }
+  </style>
+
+  <!-- Nombre en Blanco Sólido -->
+  <text x="50%" y="62" text-anchor="middle" class="name">Daniel Cartagena</text>
+
+  <!-- Subtítulo Neutro -->
+  <text x="50%" y="98" text-anchor="middle" class="role">FULL-STACK DEVELOPER  •  AI INTEGRATOR  •  JUNIOR DATA ANALYST</text>
+</svg>
