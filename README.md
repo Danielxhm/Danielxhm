@@ -76,6 +76,6 @@ Estoy disponible para colaborar en proyectos freelance y de consultoría técnic
     <img src="https://images.credly.com/size/100x100/images/e658e8fb-fba0-4a12-9dd6-61369b63a6ab/image.png" alt="Credly Badge" width="100"/>
   </a>
   <a>
-  <img src="./assets/profile.jpg" alt="Contact"/>
+  <img src="./assets/profile.webp" alt="Contact"/>
 </a>
 </div>
