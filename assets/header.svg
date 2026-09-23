@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 130" width="100%" height="130" fill="none">
+  <defs>
+    <!-- Degradado lineal de negro a blanco -->
+    <linearGradient id="bwGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#000000" />
+      <stop offset="100%" stop-color="#FFFFFF" />
+    </linearGradient>
+  </defs>
+
+  <style>
+    .name {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Inter, Helvetica, Arial, sans-serif;
+      font-size: 50px;
+      font-weight: 800;
+      letter-spacing: -0.03em;
+      paint-order: stroke fill;
+      stroke: #525252;
+      stroke-width: 0.6px;
+    }
+    .role {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Inter, Helvetica, Arial, sans-serif;
+      font-size: 14px;
+      font-weight: 600;
+      letter-spacing: 0.14em;
+      fill: #737373;
+    }
+  </style>
+
+  <!-- Nombre con Degradado B&N -->
+  <text x="50%" y="62" text-anchor="middle" class="name" fill="url(#bwGrad)">Daniel Cartagena</text>
+
+  <!-- Subtítulo Monocromático -->
+  <text x="50%" y="98" text-anchor="middle" class="role">FULL-STACK DEVELOPER  •  AI INTEGRATOR  •  JUNIOR DATA ANALYST</text>
+</svg>
