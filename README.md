@@ -30,15 +30,13 @@
 
 ---
 
-### 🚀 Sobre mí
+### Sobre mí
 
-Soy desarrollador y analista de datos junior radicado en El Salvador. Trabajo combinando la ingeniería de software con analítica relacional avanzada, automatización y modelos de visión computacional.
+Soy Desarrollador full stack y Analista de datos junior en El Salvador 🇸🇻. Me enfoco en resolver problemas técnicos concretos: Trabajo en el ciclo completo de aplicaciones web —desarrollando APIs en Laravel o FastAPI e interfaces en React con TypeScript— y en la gestión analítica de datos, desde el modelado dimensional para Data Warehouse hasta la optimización de consultas en Oracle SQL. En paralelo, integro modelos de visión artificial (YOLO, PyTorch) y proyectos con microcontroladores.
 
-- 📊 **Data Analytics & Data Warehousing:** Diseño y consulta de modelos multidimensionales con **Oracle SQL**, esquemas estrella/copo de nieve para **Data Warehouse**, optimización de consultas complejas y análisis enfocado en métricas clave de negocio.
-- 🧠 **Computer Vision & AI:** Construcción de pipelines de video e inferencia en tiempo real, integración de modelos **YOLO**, y procesamiento de medios digitales con **PyTorch** y **OpenCV**.
-- 💻 **Desarrollo Full-Stack:** Creación de APIs REST y arquitecturas modulares usando **Python (FastAPI)**, **PHP (Laravel)**, complementadas con frontends reactivos en **React**, **TypeScript** y **Tailwind CSS**.
-- 🔌 **IoT & Automatización:** Conexión de hardware embebido (ESP32/ESP8266) hacia bases de datos e interfaces web, automatizando flujos de trabajo e integración de eventos con **n8n**.
-
+- **Full-Stack:** Backends modulares en Laravel / FastAPI y frontends reactivos en React y TypeScript.
+- **Datos & Data Warehouse:** Modelado dimensional, análisis relacional y consultas avanzadas en Oracle SQL.
+- **Automatización & Flujos:** Orquestación de servicios con n8n, manejo de webhooks y automatización de procesos backend con Python.
 ---
 
 ### 🛠️ Stack Tecnológico
