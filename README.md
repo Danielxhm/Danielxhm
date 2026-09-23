@@ -75,4 +75,8 @@ Estoy disponible para colaborar en proyectos freelance y de consultoría técnic
   <a href="https://www.credly.com/badges/e94c6c3f-1da1-4aa5-a617-c193a4ba7aff/public_url">
     <img src="https://images.credly.com/size/100x100/images/e658e8fb-fba0-4a12-9dd6-61369b63a6ab/image.png" alt="Credly Badge" width="100"/>
   </a>
+  <a>
+     &nbsp;&nbsp;&nbsp;
+    <img src"[https://drive.google.com/file/d/1IWpeGiam9iBbz2BH5Hdjxmdx4g7EXURI/view?usp=sharing](https://drive.google.com/u/0/drive-viewer/AKGpihZttsG8s3Ya_sEf3VgkylKjgrUhCbI8EVjc_ysR0JjbeWML_N9KqxCORTHGsA9vDISrrlD5thdXnb_9evkFBi20PlQFfCVLKdg=s1600-rw-v1?auditContext=forDisplay)" alt="Contact"/>
+  </a>
 </div>
